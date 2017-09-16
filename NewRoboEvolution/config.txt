@@ -1,0 +1,13 @@
+screenWidth: 1280
+screenHeight: 720
+gridStep: 10
+foodSaturation: 4
+botsNumber: 30
+codeSegmentSize: 6
+fieldWidth: 64
+fieldHeight: 72
+mutationRate: 1
+mutationProbability: 0.1
+startSaturation: 20
+foodAmount: 150
+maxLifetime: 6000
